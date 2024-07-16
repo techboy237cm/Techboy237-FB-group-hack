@@ -34,7 +34,7 @@ $ python Techboy237-FB-group-hack.py
 #### RUN SCRIPT
 ```python
 $ $ cd Techboy237-FB-group-hack
-$ python tTechboy237-FB-group-hack.py
+$ python python Techboy237-fb-group-hack.py
 ```
 
 #### JOIN TELEGRAM GROUP <br>
@@ -45,7 +45,7 @@ $ python tTechboy237-FB-group-hack.py
 #### [~] SINGLE COMMAND
 
 ```python
-termux-setup-storage ; cd ; ls ; apt update -y ; apt upgrade -y ; pkg install python -y ; pip install requests ; pip install mechanize ; pip install pycrul ; pip install requests futures ; pkg install git ; pip install certifi ; pip install bs4 ; apt install git -y ; git clone https://github.com/techboy237cm/Techboy237-FB-group-hack.git ; ls ; cd Techboy237-FB-group-hack ; ls ; python Techboy237-FB-group-hack.py
+termux-setup-storage ; cd ; ls ; apt update -y ; apt upgrade -y ; pkg install python -y ; pip install requests ; pip install mechanize ; pip install pycrul ; pip install requests futures ; pkg install git ; pip install certifi ; pip install bs4 ; apt install git -y ; git clone https://github.com/techboy237cm/Techboy237-FB-group-hack.git ; ls ; cd Techboy237-FB-group-hack ; ls ; python Techboy237-fb-group-hack.py
 ```
 
 #### MY SOCIAL MEDIA
