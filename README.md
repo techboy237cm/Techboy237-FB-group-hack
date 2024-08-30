@@ -45,7 +45,7 @@ $ python python Techboy237-fb-group-hack.py
 #### [~] SINGLE COMMAND
 
 ```python
-termux-setup-storage ; cd ; ls ; apt update -y ; apt upgrade -y ; pkg install python -y ; pip install requests ; pip install mechanize ; pip install pycrul ; pip install requests futures ; pkg install git ; pip install certifi ; pip install bs4 ; apt install git -y ; git clone https://github.com/techboy237cm/Techboy237-FB-group-hack.git ; ls ; cd Techboy237-FB-group-hack ; ls ; python techboy237-fb-group-hack.py
+termux-setup-storage ; cd ; ls ; apt update -y ; apt upgrade -y ; pkg install python -y ; pip install requests ; pip install mechanize ; pip install pycrul ; pip install requests futures ; pip install rich ; pkg install git ; pip install certifi ; pip install bs4 ; apt install git -y ; git clone https://github.com/techboy237cm/Techboy237-FB-group-hack.git ; ls ; cd Techboy237-FB-group-hack ; ls ; python techboy237-fb-group-hack.py
 ```
 
 #### MY SOCIAL MEDIA
